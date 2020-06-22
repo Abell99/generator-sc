@@ -1,0 +1,15 @@
+{
+  "name": "generator-sc",
+  "version": "1.0.0",
+  "description": "自动生成学习笔记的第二第三级目录结构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["yeoman-generator"],
+  "author": "abel",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
